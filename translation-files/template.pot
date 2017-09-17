@@ -5,119 +5,119 @@ msgstr ""
 "Project-Id-Version: \n"
 
 #: public/app/js/controllers/assets.js:84
-msgid "% done"
+msgid "% completado"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:82
-msgid "&nbsp;&nbsp;Only at specific time of the day (for e.g. 7AM - 11AM)"
+msgid "&nbsp;&nbsp;Solo en un momento específico del día(Por ej. 7AM - 11AM)"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:17
-msgid "&nbsp;&nbsp;Schedule between two Dates(both inclusive)"
+msgid "&nbsp;&nbsp;Horario entre dos fechas(ambos inclusive)"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:59
-msgid "&nbsp;&nbsp;Schedule on specific week days or month days"
+msgid "&nbsp;&nbsp;Horario en días específicos de semana o días del mes"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:13
-msgid "&nbsp;Drag & Drop view"
+msgid "&nbsp;Vista Drag & Drop"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:13
-msgid "&nbsp;Normal view"
+msgid "&nbsp;Vista Normal"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:12
-msgid "&nbsp;Settings"
+msgid "&nbsp;Ajustes"
 msgstr ""
 
 #: public/app/templates/statusPopup.html:5
-msgid "&nbsp;Status"
+msgid "&nbsp;Estado"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:28
-msgid "&nbsp;free"
+msgid "&nbsp;Libre"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:133
 #: public/app/partials/assets/_assets.html:181
 #: public/app/partials/assets/_assets.html:82
-msgid "&nbsp;seconds"
+msgid "&nbsp;segundos"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:107
 #: public/app/partials/playlists/_playlist.html:191
-msgid "&nbsp;show fullscreen"
+msgid "&nbsp;mostrar pantalla completa"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:11
-msgid "&nbsp;view schedule"
+msgid "&nbsp;ver calendario"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:112
-msgid "(Please contact support@pisignage.com for license redemption)"
+msgid "(Por favor contacte a support@pisignage.com para la redención de licencias)"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:134
-msgid "(Please select quantity in next page after pressing Buy Now, <br>"
+msgid "(Por favor seleccione la cantidad en la proxima pagina luego de presionar Comprar Ahora, <br>"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:63
-msgid "(Please select quantity in next page after pressing Buy Now,<br>"
+msgid "(Por favor seleccione la cantidad en la próxima página luego de presionar Comprar Ahora,<br>"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:80
-msgid "(Select quantity after pressing Pay Now)"
+msgid "(Seleccione la cantidad después de presionar Pagar Ahora)"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:26
-msgid "-- choose a default playlist --"
+msgid "-- Seleccionar lista de reproduccin por defecto --"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:70
-msgid "-- choose playlist --"
+msgid "-- seleccionar lista de reproduccin --"
 msgstr ""
 
 #: public/app/partials/admin/_events.html:10
-msgid "-- for category --"
+msgid "-- por categoría --"
 msgstr ""
 
 #: public/app/partials/admin/_events.html:15
-msgid "-- for installation --"
+msgid "-- por instalacin --"
 msgstr ""
 
 #: public/app/partials/admin/_events.html:20
 #: public/app/partials/server/_reports.html:28
-msgid "-- for player --"
+msgid "-- por reproductor --"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:11
-msgid "-- get monthly report for --"
+msgid "-- obtener reporte mensual por --"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:14
-msgid "-- none --"
+msgid "-- ninguno --"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:30
-msgid "--- All  ---"
+msgid "--- Todos  ---"
 msgstr ""
 
 #: public/app/js/controllers/server.js:638
-msgid "--- none ---"
+msgid "--- ninguno ---"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:28
-msgid "--No TZ--"
+msgid "--Sin TZ--"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:56
-msgid "--Select a Group--"
+msgid "--Seleccione Grupo--"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:64
-msgid "--Select a Timezone--"
+msgid "--Seleccione zona horaria--"
 msgstr ""
 
 #: public/app/partials/_settings.html:227
@@ -157,7 +157,7 @@ msgstr ""
 
 #: public/app/js/controllers/groups.js:89
 #: public/app/js/controllers/playlists.js:74
-msgid "A copy exists already"
+msgid "Ya existe una copia"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:24
@@ -165,140 +165,140 @@ msgstr ""
 #: public/app/partials/playlists/_list.html:22
 #: public/app/partials/server/_settings.html:9
 #: public/app/templates/collaboratorPopup.html:146
-msgid "ADD"
+msgid "Añadir"
 msgstr ""
 
 #: public/app/js/services/pi.js:64
-msgid "Abort uploading files to '"
+msgid "Abortar la subida archivos a '"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:69
-msgid "Access piShell"
+msgid "Acceder piShell"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:27
-msgid "Accessible Accounts"
+msgid "Cuentas Accesibles"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:19
-msgid "Add"
+msgid "Añadir"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "Add Calendar"
+msgid "Añadir Calendario"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:86
-msgid "Add Messages"
+msgid "Añadir Mensajes"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:54
-msgid "Add More"
+msgid "Añadir Más"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "Add a Link"
+msgid "Añadir Link"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
 #: public/app/templates/linkPopUp.html:5
-msgid "Add a Message"
+msgid "Añadir un Mensaje"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:5
-msgid "Add a collaborator"
+msgid "Añadir un colaborador"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:138
 #: public/app/partials/playlists/_playlist.html:61
-msgid "Add a ticker for this playlist"
+msgid "Añadir un ticker para esta lista de reproducción"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:5
-msgid "Add a ticker to your Screen"
+msgid "Añadir un ticker para su pantalla"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:118
 #: public/app/partials/assets/_assets.html:166
 #: public/app/partials/assets/_assets.html:67
-msgid "Add or Remove this asset from multiple playlists"
+msgid "Aadir o quitar este Activo para multiples listas de reproducción"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:105
 #: public/app/partials/playlists/_playlist.html:189
-msgid "Add other zone assets"
+msgid "Añadir Activos de otra zona"
 msgstr ""
 
 #: public/app/templates/scheduleValidity.html:13
-msgid "Add validity period"
+msgid "Añadir un período de validez"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:115
 #: public/app/partials/assets/_assets.html:163
 #: public/app/partials/assets/_assets.html:64
-msgid "Add validity period for the asset"
+msgid "Añadir un período de validez para el Activo"
 msgstr ""
 
 #: public/app/templates/scheduleValidity.html:5
-msgid "Add validity period for the asset:"
+msgid "Añadir un período de validez para el Activo:"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:73
-msgid "Add/Modify the schedule for this playlist to play"
+msgid "Añadir/Modificar el calendario para reproducir esta lista de reprducción"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:56
-msgid "Additionally, you can add upto 30 playlists and schedule them"
+msgid "Adicionalmente, puede añadir hasta 30 listas de reproduccin y programarlos"
 msgstr ""
 
 #: public/app/partials/_settings.html:342
-msgid "Advanced Users"
+msgid "Usuarios Avanzados"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:11
-msgid "Alphabetic wise Listing"
+msgid "Listado alfabetico"
 msgstr ""
 
 #: public/app/js/services/pi.js:58
-msgid "An unknown error occurred posting to '"
+msgid "Ocurrió un error desconocido '"
 msgstr ""
 
 #: public/app/templates/displaySet.html:29
-msgid "Animation"
+msgid "Animación"
 msgstr ""
 
 #: public/app/partials/utilities/_kb.html:30
 msgid ""
-"Answers from Prediction(in beta)\n"
+"Respuestas sobre predicción (en Beta)\n"
 "        <button ng-click=\"submitQuery(true)\" style=\"padding:2px;\" class=\"btn btn-primary pull-right\">Ask Support</button>"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:127
 #: public/app/partials/user/_subscriptions.html:58
-msgid "Any descrepancies please write to support@pisignage.com"
+msgid "Ante cualquier discrepancias por favor escribr a support@pisignage.com"
 msgstr ""
 
 #: public/app/templates/playlistsPopup.html:12
-msgid "Append this to playlist"
+msgid "Añadir esta lista a la lista de reproducción"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:58
-msgid "Ask a question or go through the FAQ"
+msgid "Haga una pregunta o visite el FAQ"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:11
 #: public/app/partials/home/_home-pc.html:45
 #: public/app/partials/home/_pihome.html:41
 #: public/app/templates/collaboratorPopup.html:77
-msgid "Assets"
+msgid "Activos"
 msgstr ""
 
 #: public/app/partials/home/_labels.html:15
-msgid "Assets associated"
+msgid "Activos Asociados"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:45
-msgid "Assets include files, links, notices. Upload, rename or delete assets here"
+msgid "Los Activos incluyen archivos, links, noticias.  Suba, renombre o elimine Activos aquí"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:118
@@ -306,83 +306,83 @@ msgstr ""
 #: public/app/partials/assets/_assets.html:67
 #: public/app/partials/assets/_details.html:11
 #: public/app/partials/assets/_linkFile.html:11
-msgid "Assign"
+msgid "Asignar"
 msgstr ""
 
 #: public/app/templates/linkPopUp.html:67
-msgid "Assign Categories"
+msgid "Asignar a Categorías"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:53
-msgid "Assign Group"
+msgid "Asignar a Grupo"
 msgstr ""
 
 #: public/app/templates/playlistsPopup.html:6
-msgid "Assign to or Un-assign from playlists"
+msgid "Asignar A o Desasignar Desde Listas de reproducción"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:150
-msgid "Assigned"
+msgid "Asignado"
 msgstr ""
 
 #: public/app/partials/assets/_edit.html:28
-msgid "Associated playlists:"
+msgid "Listas de reproducción asociadas:"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:82
-msgid "At Specified Time"
+msgid "En un horario especifico"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:265
 #: public/app/js/controllers/notices.js:171
-msgid "Audio Streaming"
+msgid "Transmisión de Audio"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:208
-msgid "Available Assets"
+msgid "Activos disponibles"
 msgstr ""
 
 #: public/app/templates/listFilePopup.html:5
-msgid "Available Files"
+msgid "Archivos disponibles"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:6
-msgid "Available Groups"
+msgid "Grupos Disponibless"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:33
-msgid "Available Player-Month Credits"
+msgid "Creditos de reproductor-mes disponibles"
 msgstr ""
 
 #: public/app/partials/playlists/_list.html:6
-msgid "Available Playlists"
+msgid "Listas de reproduccin disponibles"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:16
-msgid "Available Storage"
+msgid "Espacio disponible"
 msgstr ""
 
 #: public/app/partials/user/_forgot.html:9
-msgid "Back"
+msgid "Atras"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:24
 #: public/app/templates/scheduleCalendar.html:89
-msgid "Begin"
+msgid "Comenzar"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:16
-msgid "Body"
+msgid "Cuerpo"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:17
-msgid "Body of the notice"
+msgid "Cuerpo de la noticia"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:9
 msgid ""
-"By making this as Advt. playlist, you can insert the assets\n"
-"          of this playlist periodically in between the currently playing playlist."
+"Haciendo esta una lista de Anuncios, podrá insterar Activos\n"
+"          de esta lista de reproducción periódicamente entre la lista de reproducción actual."
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:79
@@ -395,128 +395,128 @@ msgstr ""
 #: public/app/templates/swUpdatePopup.html:13
 #: public/app/templates/tickerPopup.html:94
 #: public/app/templates/uploadPopup.html:27
-msgid "Cancel"
+msgid "Cancelar"
 msgstr ""
 
 #: public/app/partials/home/_labels.html:6
-msgid "Categories"
+msgid "Categorias"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:135
 #: public/app/partials/assets/_assets.html:183
 #: public/app/partials/assets/_assets.html:84
-msgid "Categories:&nbsp;"
+msgid "Categorias:&nbsp;"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:122
 #: public/app/js/controllers/labels.js:40
 #: public/app/js/controllers/labels.js:56
-msgid "Category exists"
+msgid "Categoria existente"
 msgstr ""
 
 #: public/app/partials/_settings.html:170
 #: public/app/partials/_settings.html:197
-msgid "Change"
+msgid "Cambiar"
 msgstr ""
 
 #: public/app/partials/_settings.html:239
-msgid "Change And Reboot"
+msgid "Cambiar y Reiniciar"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:32
-msgid "Change Main Zone video window size"
+msgid "Cambiar el tamaño de la ventana de la ventana principal"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:24
 #: public/app/partials/user/_settings.html:5
 #: public/app/templates/changePassword.html:5
-msgid "Change Password"
+msgid "Cambiar Contraseña"
 msgstr ""
 
 #: public/app/partials/_settings.html:158
-msgid "Change Server"
+msgid "Cambiar Servidor"
 msgstr ""
 
 #: public/app/partials/_settings.html:251
-msgid "Change only if display is not fitting the screen"
+msgid "Cambiar sólo si no está ajustada la pantalla"
 msgstr ""
 
 #: public/app/partials/server/_player.html:101
-msgid "Change player group &amp; other settings"
+msgid "Cambiar grupo de reproductor&amp; otros ajustes"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:74
-msgid "Change video window position for other zones"
+msgid "Cambiar la posición de la ventana de video para otras zonas"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:444
-msgid "Changed settings to factory default & rebooting the player"
+msgid "Cambiando la configuración a los valores predeterminados de fábrica y reiniciando el reproductor"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:197
-msgid "Changes have been saved"
+msgid "Los cambios fueron salvados"
 msgstr ""
 
 #: public/app/partials/assets/_calendar.html:14
-msgid "Choose a Calendar for subscribing to Events"
+msgid "Elija un calendario para suscribirse a eventos"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:20
-msgid "Chose access Rights to the various screens"
+msgid "Elegir derechos de acceso a las distintas pantallas"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:30
-msgid "Chromecast device connected"
+msgid "Chromecast conectado"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:30
-msgid "Chromecast devices available, add them to piSignage"
+msgid "Chromecast disponible, añadir a piSignage"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:41
-msgid "Clear filter"
+msgid "Eliminar filtro"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:73
-msgid "Click the icon to Schedule&nbsp;"
+msgid "Click en el icono para Programación&nbsp;"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:45
 #: public/app/partials/playlists/_playlist.html:129
 #: public/app/partials/playlists/_playlist.html:52
 #: public/app/partials/server/_player.html:35
-msgid "Click this button to select, edit and add categories"
+msgid "Click en este boton para seleccionar, editar y añadir categorias"
 msgstr ""
 
 #: public/app/partials/server/_player.html:111
-msgid "Click to see the group details"
+msgid "Click para ver el detalle del grupo"
 msgstr ""
 
 #: public/app/partials/server/_player.html:106
-msgid "Click to see the playlist"
+msgid "Click para ver la lista de reproducción"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:155
 #: public/app/partials/playlists/_playlist.html:71
-msgid "Click to view"
+msgid "Click para ver"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:42
 #: public/app/partials/assets/_notice.html:6
 #: public/app/partials/server/_reports.html:101
-msgid "Close"
+msgid "Cerrar"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:9
-msgid "Collaborator will be able to manage the account except for settings"
+msgid "El colaborador podrá administrar la cuenta excepto los ajustes"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:6
-msgid "Collaborators"
+msgid "Colaboradores"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:43
-msgid "Combine content of all scheduled playlists"
+msgid "Combinar contenido de todas las listas de reproducción programadas"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:200
@@ -531,102 +531,102 @@ msgstr ""
 #: public/app/js/controllers/pimain.js:418
 #: public/app/js/controllers/pimain.js:452
 #: public/app/js/controllers/pimain.js:478
-msgid "Communication error with Player:"
+msgid "Error de comunicación con el reproductor:"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:187
 #: public/app/js/controllers/pimain.js:467
-msgid "Communication error with player:"
+msgid "Error de comunicación con el reproductor:"
 msgstr ""
 
 #: public/app/templates/changePassword.html:22
-msgid "Confirm Password"
+msgid "Confirme contraseña"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:167
-msgid "Contact us form"
+msgid "Contacte con nosotros desde"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:43
-msgid "Content from all the eligible playlists will be combined"
+msgid "El contenido de todas las listas de reproducción elegibles se combinará"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:98
-msgid "Continue"
+msgid "Continuar"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:34
-msgid "Count"
+msgid "Contar"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:111
-msgid "Create & Edit"
+msgid "Crear & Editar"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:42
-msgid "Create Group, assign &amp; schedule playlists, add ticker, select TV mode &amp; resolution,schedule TV on &amp; off , rename or delete groups"
+msgid "Crear grupo, asignar &amp; programar listas de reproducción, añadir ticker, seleccionar modo de TV &amp; resolucion,programar TV Encendida &amp; Apagada , renombrar o eliminar grupos"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "Create Notice"
+msgid "Crear Noticia"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:48
-msgid "Create Playlist, add assets &amp; ticker, select Layout, duration &amp; set video window, rename or delete playlists"
+msgid "Crear lista de reproducción, añadir activos &amp; ticker, seleccione Disposición, duracion &amp; establecer ventana de vídeo, renombrar o eliminar listas de reproduccion"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:15
-msgid "Create a new Group"
+msgid "Crear un nuevo grupo"
 msgstr ""
 
 #: public/app/partials/playlists/_list.html:12
-msgid "Create a new Playlist"
+msgid "Crear una nueva lista de reproducción"
 msgstr ""
 
 #: public/app/partials/user/_login.html:28
 #: public/app/partials/user/_signup.html:9
-msgid "Create an Account now!"
+msgid "Cree su cuenta Ahora!"
 msgstr ""
 
 #: public/app/partials/user/_settings.html:10
-msgid "Current Password"
+msgid "Contraseña actual"
 msgstr ""
 
 #: public/app/partials/server/_player.html:69
 #: public/app/partials/server/_screens.html:28
-msgid "Current Playlist"
+msgid "Lista de reproduccion actual"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:568
-msgid "Custom Layout in Landscape Mode (v1.6.0+)"
+msgid "Diseño personalizado en modo horizontal (v1.6.0+)"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:571
-msgid "Custom Layout in Portrait Mode, Orient clockwise"
+msgid "Disposición personalizada en modo vertical, Orientación en el sentido de las agujas del reloj"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:574
-msgid "Custom Layout in Portrait Mode,Orient anti-clockwise"
+msgid "Disposición personalizada en modo vertical, orientar en sentido contrario a las agujas del reloj"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:67
-msgid "Custom Logo"
+msgid "Logo personalizado"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:76
-msgid "Custom URL"
+msgid "URL Personalizada"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:97
-msgid "Custom reports"
+msgid "Reportes personalizados"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:161
-msgid "Customized Plans or Storage needs"
+msgid "Personalizar planes o necesidades de almacenaje"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:85
-msgid "DEPLOY"
+msgid "UTILIZAR"
 msgstr ""
 
 #: public/app/partials/_settings.html:39
@@ -637,107 +637,107 @@ msgstr ""
 #: public/app/partials/groups/_edit.html:9
 #: public/app/partials/playlists/_edit.html:9
 #: public/app/templates/layoutPopup.html:5
-msgid "DONE"
+msgid "HECHO"
 msgstr ""
 
 #: public/app/templates/linkPopUp.html:13
-msgid "Data will be saved in this file"
+msgid "Los datos seran guardados en este archivo"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:112
-msgid "De-Register a Player"
+msgid "Desregistrar un reproductor"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:61
-msgid "Default Duration for Slides"
+msgid "Duracion por defecto para las diapositivas"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:22
-msgid "Default Playlist"
+msgid "Lista de reproduccion por defecto"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:38
-msgid "Default playlist assets will be played along with selected playlist"
+msgid "Los activos de lista de reproducción predeterminados se reproducirán junto con la lista de reproducción seleccionada."
 msgstr ""
 
 #: public/app/partials/groups/_details.html:22
-msgid "Default playlist will play when there is no scheduled content is available"
+msgid "La lista de reproducción predeterminada se reproducirá cuando no haya contenido programado disponible."
 msgstr ""
 
 #: public/app/templates/displaySet.html:121
-msgid "Default volume output is 100%"
+msgid "El volumen por defecto es 100%"
 msgstr ""
 
 #: public/app/partials/home/_labels.html:9
-msgid "Delete labels"
+msgid "Eliminar etiquetas"
 msgstr ""
 
 #: public/app/partials/groups/_edit.html:6
-msgid "Delete or rename Groups"
+msgid "Eliminar o renombrar Grupos"
 msgstr ""
 
 #: public/app/partials/playlists/_edit.html:6
-msgid "Delete or rename Playlists"
+msgid "Eliminar o renombrar listas de reproduccion"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:144
 #: public/app/js/controllers/groups.js:263
 #: public/app/js/controllers/groups.js:266
-msgid "Deploy"
+msgid "Utilizar"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:33
-msgid "Deploy Options"
+msgid "Opciones de Utilizacin"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:11
-msgid "Deploy all"
+msgid "Utilizar todas"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:134
-msgid "Deploy done for"
+msgid "Utilización lista para"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:130
 #: public/app/js/controllers/groups.js:138
-msgid "Deploy failed for"
+msgid "Utilización falló"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:23
-msgid "Deploy&nbsp;<span class=\"caret\"></span>"
+msgid "Utilizar&nbsp;<span class=\"caret\"></span>"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:11
-msgid "Deploy/Sync all Groups"
+msgid "Utilizar/Sincronizar todos los Grupos"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:263
-msgid "Deployed, Request has been sent to all Players."
+msgid "Utilizacin lista, Se ha enviado una solicitud a todos los reproductores."
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:37
-msgid "Deployed:"
+msgid "Utilización Enviada:"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:18
-msgid "Details"
+msgid "Detalles"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:73
-msgid "Details (Click on the cell to know the details)"
+msgid "Detalles (Click en la celda para ver los detalles)"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:4
-msgid "Details for"
+msgid "Detalles para"
 msgstr ""
 
 #: public/app/partials/_settings.html:256
 #: public/app/templates/displaySet.html:33
-msgid "Disable"
+msgid "Deshabilitar"
 msgstr ""
 
 #: public/app/partials/_settings.html:253
-msgid "Disable Overscan"
+msgid "Deshabilitar Overscan"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:103
@@ -746,174 +746,174 @@ msgstr ""
 #: public/app/js/controllers/assets.js:161
 #: public/app/templates/shellPopup.html:5
 #: public/app/templates/statusPopup.html:11
-msgid "Dismiss"
+msgid "Desechar"
 msgstr ""
 
 #: public/app/partials/_settings.html:205
-msgid "Display"
+msgid "Mostrar"
 msgstr ""
 
 #: public/app/templates/displaySet.html:76
-msgid "Display Clock"
+msgid "Mostrar Reloj"
 msgstr ""
 
 #: public/app/templates/confirmPopup.html:8
-msgid "Do you want to delete:"
+msgid "Quiere eliminar:"
 msgstr ""
 
 #: public/app/templates/swUpdatePopup.html:9
-msgid "Do you want to update Software from"
+msgid "Quiere realizar la actualizacion de software de"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:5
-msgid "Done"
+msgid "Hecho"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:102
-msgid "Download"
+msgid "Descargar"
 msgstr ""
 
 #: public/app/templates/licenseListPopup.html:11
-msgid "Download all"
+msgid "Descargar todos"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:13
-msgid "Drag &amp; Drop view"
+msgid "Vista Arrastrar &amp; Soltar"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:161
 #: public/app/partials/playlists/_playlist.html:77
-msgid "Drag this item to rearrange"
+msgid "Arrastre este item para reacomodarlo"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:208
-msgid "Drag to left window to add"
+msgid "Arrastre a la ventana izquierda para añadir"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:150
-msgid "Drag to right window to remove"
+msgid "Arrastre a la ventana derecha para remover"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:4
-msgid "Drop the"
+msgid "Soltar el"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:39
-msgid "Duplicate Group"
+msgid "Duplicar Grupo"
 msgstr ""
 
 #: public/app/partials/playlists/_list.html:33
-msgid "Duplicate playlist"
+msgid "Duplicar lista de reproduccion"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:102
 #: public/app/partials/playlists/_playlist.html:186
-msgid "Duplicate this asset to add multiple times in the playlist"
+msgid "Duplique este recurso para agregar varias veces en la lista de reproducción"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:17
-msgid "Duration"
+msgid "Duracion"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:51
 #: public/app/templates/linkPopUp.html:45
-msgid "Duration of each feed item"
+msgid "Duración de cada elemento"
 msgstr ""
 
 #: public/app/templates/shellPopup.html:13
-msgid "EXECUTE"
+msgid "EJECUTAR"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:18
 #: public/app/partials/groups/_groups.html:10
 #: public/app/partials/playlists/_list.html:9
 #: public/app/templates/collaboratorPopup.html:90
-msgid "Edit"
+msgid "Editar"
 msgstr ""
 
 #: public/app/partials/_settings.html:57
-msgid "Edit DNS Entry"
+msgid "Editar Entrada DNS"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:6
-msgid "Edit collaborator access rights"
+msgid "Editar los derechos de acceso del colaborador"
 msgstr ""
 
 #: public/app/partials/user/_login.html:16
-msgid "Email is needed for sign-in"
+msgid "Un Correo es necesario para Registrarse"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:25
-msgid "Email is needed for sign-up"
+msgid "Un Correo es necesario para Acceder"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:889
-msgid "Empry name or name already exists"
+msgid "Nombre vacío o existente"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:27
 #: public/app/js/controllers/playlists.js:30
 #: public/app/js/controllers/playlists.js:951
-msgid "Empty name not allowed"
+msgid "Nombre vacio no se permite"
 msgstr ""
 
 #: public/app/partials/_settings.html:298
 #: public/app/templates/displaySet.html:136
-msgid "Enable"
+msgid "Habilitar"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:11
-msgid "Enable Ticker"
+msgid "Habilitar Ticker"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:91
-msgid "Enable log for file play count/details (network intensive, do not enable unless you need it!)"
+msgid "Habilitar registro para conteo/detalles de reproduccion de archivos (muy intenso para la red, no habilitar a menos que lo necesite!)"
 msgstr ""
 
 #: public/app/partials/_settings.html:295
-msgid "Enable scheduling"
+msgid "Habilitar la programación"
 msgstr ""
 
 #: public/app/partials/playlists/_calendar.html:20
-msgid "End Date"
+msgid "Fecha de finalizacion"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:33
 #: public/app/templates/scheduleValidity.html:24
-msgid "Enter End Date"
+msgid "Añadir fecha de finalizacion"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:98
-msgid "Enter End Time"
+msgid "Añadir horario de finalizacion"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:29
 #: public/app/templates/scheduleValidity.html:20
-msgid "Enter Start Date"
+msgid "Añadir fecha de inicio"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:94
-msgid "Enter Start Time"
+msgid "Añadir horario de inicio"
 msgstr ""
 
 #: public/app/templates/gCalPopup.html:10
-msgid "Enter Your Google User ID"
+msgid "Añadir su ID de Google"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:47
-msgid "Enter the 16 digit player ID"
+msgid "Añadir los 16 dígitos del ID del Reproductor"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:73
-msgid "Enter value in %"
+msgid "Añadir un valor en %"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:37
-msgid "Enter value in seconds"
+msgid "Añadir un valor en segundos"
 msgstr ""
 
 #: public/app/partials/_settings.html:377
-msgid "Erase all settings & restore factory settings"
+msgid "Eliminar todos los ajustes & restablecer a valores de fábrica"
 msgstr ""
 
 #: public/app/js/controllers/piUser.js:140
@@ -921,60 +921,60 @@ msgid "Error :"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:154
-msgid "Error in Downloading log files,"
+msgid "Error descargando los archivos del log,"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:449
-msgid "Error in executing factory reset command"
+msgid "Error ejecutando el comando de Inicialización de Fábrica"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:299
 #: public/app/js/controllers/pimain.js:324
 #: public/app/js/controllers/pimain.js:345
 #: public/app/js/controllers/pimain.js:367
-msgid "Error in writing to configuration file"
+msgid "Error escribiendo el archivo de configuración"
 msgstr ""
 
 #: public/app/partials/admin/_admin.html:9
-msgid "Events"
+msgid "Eventos"
 msgstr ""
 
 #: public/app/partials/playlists/_calendar.html:28
-msgid "Every Day End Time"
+msgid "Horario de finalización diario"
 msgstr ""
 
 #: public/app/partials/playlists/_calendar.html:24
-msgid "Every Day Start Time"
+msgid "Horario de inicio diario"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:147
-msgid "File"
+msgid "Archivo"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:19
 #: public/app/templates/linkPopUp.html:11
-msgid "File Name"
+msgid "Nombre de Archivo"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:23
-msgid "File Type"
+msgid "Tipo de Archivo"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:897
 #: public/app/js/controllers/playlists.js:958
-msgid "File name already exists"
+msgid "El nombre del archivo ya existe"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:507
-msgid "File name exists or empty name"
+msgid "El nombre del archivo ya existe o esta vacio"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:101
-msgid "Files to be deployed to players for the group"
+msgid "Archivos que se desplegarán en los reproductores para el grupo"
 msgstr ""
 
 #: public/app/templates/displaySet.html:106
-msgid "Fill screen"
+msgid "Rellenar pantalla"
 msgstr ""
 
 #: public/app/partials/admin/_gallery.html:28
@@ -986,67 +986,67 @@ msgstr ""
 #: public/app/templates/linkFilePopup.html:42
 #: public/app/templates/listFilePopup.html:10
 #: public/app/templates/playlistsPopup.html:25
-msgid "Filter by Name"
+msgid "Filtrar por nombre"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:46
 #: public/app/partials/playlists/_playlist.html:130
 #: public/app/partials/playlists/_playlist.html:53
 #: public/app/partials/server/_player.html:36
-msgid "Filter by category"
+msgid "Filtrar por categoría"
 msgstr ""
 
 #: public/app/partials/server/_player.html:30
-msgid "Filter by location"
+msgid "Filtrar por localización"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:124
 #: public/app/partials/playlists/_playlist.html:47
-msgid "Filter by name"
+msgid "Filtrar por nombre"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:4
-msgid "Follow us at twitter.com/piSignage to get the latest updates, tips and more"
+msgid "Síguenos en twitter.com/piSignage para obtener las últimas actualizaciones, sugerencias y más"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:20
-msgid "Footer"
+msgid "Pie de página"
 msgstr ""
 
 #: public/app/templates/displaySet.html:150
-msgid "For finer control use TV_OFF playlist under group scheduling"
+msgid "Para un control más preciso, utilice la lista de reproducción TV_OFF bajo la programación de grupo"
 msgstr ""
 
 #: public/app/partials/user/_login.html:20
-msgid "Forgotten your password?"
+msgid "Olvidó su contraseña?"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:39
-msgid "Free Credits"
+msgid "Creditos libres"
 msgstr ""
 
 #: public/app/js/piConfig.js:170
-msgid "Friday"
+msgid "Viernes"
 msgstr ""
 
 #: public/app/partials/_settings.html:89
-msgid "Gateway"
+msgid "Puerta de enlace"
 msgstr ""
 
 #: public/app/partials/_settings.html:4
-msgid "General Settings"
+msgid "Configuración general"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:49
-msgid "Get it from TV screen"
+msgid "Obtengalo desde la pantalla de TV"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:53
-msgid "Go to Login"
+msgid "Ir a LogIn"
 msgstr ""
 
 #: public/app/partials/assets/_calendar.html:4
-msgid "Google User Account Details"
+msgid "Detalles de la cuenta de usuario de Google"
 msgstr ""
 
 #: public/app/templates/gCalPopup.html:9
@@ -1055,232 +1055,232 @@ msgstr ""
 
 #: public/app/js/controllers/groups.js:871
 #: public/app/partials/server/_player.html:71
-msgid "Group"
+msgid "Grupo"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:36
-msgid "Group Settings"
+msgid "Ajustes del grupo"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:37
-msgid "Group exists already"
+msgid "El Grupo ya existe"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:10
-msgid "Group level ticker will play if there are no playlist tickers"
+msgid "El ticker de nivel de grupo se reproducirá si no hay tickers de lista de reproducción"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:42
 #: public/app/partials/home/_home-pc.html:9
 #: public/app/templates/collaboratorPopup.html:25
-msgid "Groups"
+msgid "Grupos"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:152
-msgid "HTTP Post Error"
+msgid "HTTP Error de posteo"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:12
-msgid "Heading"
+msgid "Encabezado"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:13
-msgid "Heading To Be Shown"
+msgid "Encabezado a mostrar"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:124
 #: public/app/templates/layoutPopup.html:42
 #: public/app/templates/layoutPopup.html:85
-msgid "Height:"
+msgid "Altura:"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:33
 #: public/app/templates/linkPopUp.html:27
-msgid "Hide all text"
+msgid "Esconder todo el texto"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:84
-msgid "Hide system messages on TV Screen (e.g. Download in Progress)"
+msgid "Esconder los mensajes del sistema en la pantalla del TV(Ej. Descarga en progreso)"
 msgstr ""
 
 #: public/app/partials/_settings.html:121
 #: public/app/partials/_settings.html:51
 #: public/app/partials/_settings.html:77
-msgid "IP Address"
+msgid "Direccion IP"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:167
-msgid "If customized plans are needed or in case of more storage requirement,"
+msgid "Si se necesitan planes personalizados o en caso de un mayor requerimiento de almacenamiento,"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:32
-msgid "If encountered any problem just click 'Resore Defaults'. The `length` and `width` parameters define the actual window size,"
+msgid "Si encuentra algún problema, haga clic en 'Restablecer por defecto'. Los parámetros `longitud` y `anchura` definen el tamaño real de la ventana,"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:143
-msgid "If there is a need for conversion, it will take few minutes to appear in assets"
+msgid "Si hay una necesidad de conversión, los activos tardarán unos minutos en aparecer"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:48
 msgid ""
-"In addition to signage functionality, you can play audio from a playlist\n"
-"          through the 3.5mm jack"
+"Además de la funcionalidad de señalización, puede reproducir audio desde una lista de reproducción\n"
+"          mediante el jack 3.5mm"
 msgstr ""
 
 #: public/app/partials/assets/_edit.html:13
-msgid "In case of renaming assets, Playlists will still have the old name for assets, you need to manually change them"
+msgid "En caso de cambiar el nombre de los activos, las listas de reproducción seguirán teniendo el nombre antiguo de los elementos, es necesario cambiarlos manualmente"
 msgstr ""
 
 #: public/app/partials/groups/_edit.html:13
-msgid "In case of renaming groups, Players need to be reassigned manually to the new group"
+msgid "En caso de cambiar el nombre de los grupos, los reproductores deben ser reasignados manualmente al nuevo grupo"
 msgstr ""
 
 #: public/app/partials/playlists/_edit.html:13
-msgid "In case of renaming playlists, Playlist need to be manually assigned to group again"
+msgid "En caso de cambiar el nombre de las listas de reproducción, la lista de reproducción debe asignarse manualmente al grupo nuevamente"
 msgstr ""
 
 #: public/app/js/controllers/piUser.js:114
-msgid "Incorrect password"
+msgid "Contrasea erronea"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:56
-msgid "Installation Settings"
+msgid "Ajustes de instalación"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:139
-msgid "Installation related menu"
+msgid "Menu relacionado con la instalación"
 msgstr ""
 
 #: public/app/partials/admin/_admin.html:7
 #: public/app/partials/admin/_installations.html:4
-msgid "Installations"
+msgid "Instalaciones"
 msgstr ""
 
 #: public/app/js/controllers/piUser.js:137
-msgid "Instructions have been sent to the email provided, please check your email"
+msgid "Se han enviado instrucciones al correo electrónico proporcionado, por favor revise su correo electrónico"
 msgstr ""
 
 #: public/app/templates/shellPopup.html:12
-msgid "Issue Linux shell commands for player(use up&amp;down arrow keys for history)"
+msgid "Emita los comandos de shell de Linux para el reproductor(use up&amp;flecha abajo para ver histórico)"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:78
-msgid "Item"
+msgid "Artículo"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:49
 #: public/app/templates/linkPopUp.html:43
 #: public/app/templates/tickerPopup.html:64
-msgid "Item duration"
+msgid "Duración del artículo"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:58
-msgid "Knowledge Base"
+msgid "Base de datos de conocimientos"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:574
 #: public/app/partials/_settings.html:213
-msgid "Landscape"
+msgid "Apaisado"
 msgstr ""
 
 #: public/app/js/controllers/server.js:855
-msgid "Last 1 Year"
+msgid "Ultimo Año"
 msgstr ""
 
 #: public/app/js/controllers/server.js:854
-msgid "Last 30 Days"
+msgid "Ultimos 30 días"
 msgstr ""
 
 #: public/app/js/controllers/server.js:853
-msgid "Last 7 Days"
+msgid "Ultimos 7 días"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:138
 #: public/app/partials/playlists/_playlist.html:61
-msgid "Layout"
+msgid "Diseño"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:118
-msgid "Layout Selection"
+msgid "Seleccion de diseño"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:132
 #: public/app/templates/layoutPopup.html:50
 #: public/app/templates/layoutPopup.html:93
-msgid "Left-Offset:"
+msgid "Desplazamiento a la izquierda:"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:36
-msgid "License type"
+msgid "Tipo de licencia"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:121
-msgid "Licenses Issued"
+msgid "Licencias Emitidas"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:23
-msgid "Licenses/Subscriptions"
+msgid "Licencias/Suscripciones"
 msgstr ""
 
 #: public/app/partials/utilities/_kb.html:44
-msgid "Like it!"
+msgid "Me gusta!"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:55
 #: public/app/templates/linkPopUp.html:49
-msgid "Link Address"
+msgid "Dirección de enlace"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:263
 #: public/app/js/controllers/notices.js:169
-msgid "Livestreaming or YouTube"
+msgid "Reproducción en vivo o YouTube"
 msgstr ""
 
 #: public/app/partials/admin/_users.html:67
 #: public/app/partials/server/_player.html:139
-msgid "Load More"
+msgid "Cargar más"
 msgstr ""
 
 #: public/app/partials/server/_player.html:75
 #: public/app/partials/server/_screens.html:25
-msgid "Location"
+msgid "Localización"
 msgstr ""
 
 #: public/app/partials/_reports.html:5
-msgid "Log Messages"
+msgid "Registro de mensajes"
 msgstr ""
 
 #: public/app/partials/user/_login.html:23
-msgid "Log-in"
+msgid "Iniciar Sesión"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:16
 #: public/app/templates/adEnablePopUp.html:4
-msgid "Make this as Advt. Playlist"
+msgid "Convertir esta lista a Lista de Anuncio"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:39
-msgid "Managed"
+msgid "Gestionado"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:24
-msgid "Managed Licenses Issued"
+msgid "Licencias Emitidas Gestionadas"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:4
-msgid "Managed Players"
+msgid "Reproductores gestionados"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:11
-msgid "Managed at pisignage.com"
+msgid "Gestionados en pisignage.com"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:13
-msgid "Max-length"
+msgid "Longitud Máxima"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:58
-msgid "Maximum allowed Playlist Schedules (30)"
+msgid "Listas de listas de reproducción máximas permitidas(30)"
 msgstr ""
 
 #: public/app/js/controllers/notices.js:174
@@ -1288,26 +1288,26 @@ msgid "Media RSS"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:268
-msgid "Media RSS (needs v1.7.0)"
+msgid "Media RSS (Necesita v1.7.0)"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:269
 #: public/app/js/controllers/notices.js:175
 #: public/app/partials/assets/_linkFile.html:72
 #: public/app/templates/linkPopUp.html:61
-msgid "Message"
+msgid "Mensaje"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:31
-msgid "Minimum of 8 characters"
+msgid "8 Caracteres Minimo"
 msgstr ""
 
 #: public/app/js/piConfig.js:166
-msgid "Monday"
+msgid "Lunes"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:96
-msgid "Monthly Report for"
+msgid "Reporte mensual para"
 msgstr ""
 
 #: public/app/partials/_settings.html:233
@@ -1315,7 +1315,7 @@ msgid "NTSC(RCA)"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:69
-msgid "Name for the player"
+msgid "Nombre del reproductor"
 msgstr ""
 
 #: public/app/partials/server/_screens.html:17
@@ -1332,75 +1332,75 @@ msgid "Netmask"
 msgstr ""
 
 #: public/app/partials/_settings.html:36
-msgid "Network Mode"
+msgid "Modo de red"
 msgstr ""
 
 #: public/app/partials/_settings.html:127
-msgid "Network Name (SSID)"
+msgid "Nombre de Red (SSID)"
 msgstr ""
 
 #: public/app/partials/_settings.html:31
-msgid "Network Settings"
+msgid "Ajustes de Red"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:253
-msgid "Network interface file I/O error"
+msgid "Archivo de Interfaz de Red I/O error"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:241
-msgid "Network update in Progress ...."
+msgid "Actualización de red en progreso ...."
 msgstr ""
 
 #: public/app/partials/_settings.html:190
 #: public/app/partials/user/_settings.html:15
 #: public/app/templates/changePassword.html:16
-msgid "New Password"
+msgid "Nueva contraseña"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:47
-msgid "New playlist will be switched at the end of current loop(needs v1.7.8+)"
+msgid "Nueva lista de reproducción se reproducirá al final del bucle de la reproducción actual (Necesita v1.7.8+)"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:47
-msgid "Next Billing"
+msgid "Proxima facturación"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:53
-msgid "Next Free Credit"
+msgid "Proximo credito gratuito"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:145
 #: public/app/partials/assets/_assets.html:193
-msgid "No Files"
+msgid "No hay archivo"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:3
-msgid "No Playlist is being played"
+msgid "No se reproduce una lista de reproducción"
 msgstr ""
 
 #: public/app/js/services/pi.js:21
-msgid "No files to upload"
+msgid "Sin archivos para subir"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:95
-msgid "No media assets found, Upload assets using Add button"
+msgid "Activos no encontrados, suba Activos con el boton Subir"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:107
-msgid "Non-managed License Only Players"
+msgid "únicamente reproductores sin licencia gestionada"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:13
-msgid "Normal view"
+msgid "Vista Normal"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:326
 #: public/app/js/controllers/groups.js:336
-msgid "Not Scheduled"
+msgid "No programada"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:5
-msgid "Notice:"
+msgid "Noticia:"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:144
@@ -1411,53 +1411,53 @@ msgid "OK"
 msgstr ""
 
 #: public/app/templates/changePassword.html:10
-msgid "Old Password"
+msgid "Antigua contraseña"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:48
-msgid "On"
+msgid "Encendido"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:7
-msgid "On Time for players for the day"
+msgid "A tiempo para los reproductores del día"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:63
-msgid "On week day(s)"
+msgid "En día(s) de semana"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:85
-msgid "One of the selected playlist has zero items"
+msgid "Una de las listas de reproducción seleccionadas tiene cero elementos."
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:15
-msgid "Only Player license needs to be generated"
+msgid "Sólo se necesita generar la licencia de reproductor"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:59
-msgid "Only on Selected Days"
+msgid "Sólo en días seleccionados"
 msgstr ""
 
 #: public/app/partials/server/_player.html:100
-msgid "Open the player terminal to issue commands, TV on/off and take snapshots"
+msgid "Abra el terminal del reproductor para emitir comandos, encender / apagar TV y capturas de pantalla instantáneas"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:66
 #: public/app/templates/linkPopUp.html:55
 #: public/app/templates/tickerPopup.html:43
-msgid "Optional CSS"
+msgid "CSS Opcional"
 msgstr ""
 
 #: public/app/partials/_settings.html:16
-msgid "Optional Note"
+msgid "Nota opcional"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:21
-msgid "Optional footer message"
+msgid "Mensaje de pie de página opcional"
 msgstr ""
 
 #: public/app/templates/displaySet.html:18
-msgid "Orientation"
+msgid "Orientación"
 msgstr ""
 
 #: public/app/partials/_settings.html:247
@@ -1469,156 +1469,156 @@ msgid "PAL(RCA)"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:179
-msgid "PLAY"
+msgid "REPRODUCIR"
 msgstr ""
 
 #: public/app/partials/_settings.html:138
 #: public/app/partials/server/_settings.html:41
 #: public/app/partials/user/_login.html:19
 #: public/app/partials/user/_signup.html:28
-msgid "Password"
+msgid "Contraseña"
 msgstr ""
 
 #: public/app/partials/user/_settings.html:17
-msgid "Password must be at least 3 characters."
+msgid "La contraseña debe ser de un minimo de 3 caracteres."
 msgstr ""
 
 #: public/app/templates/changePassword.html:19
 #: public/app/templates/changePassword.html:25
-msgid "Password must be atleast 8 characters"
+msgid "La contraseña debe ser de un minimo de 8 caracteres"
 msgstr ""
 
 #: public/app/js/controllers/piUser.js:110
-msgid "Password successfully changed."
+msgid "La contraseña se modificó exitosamente."
 msgstr ""
 
 #: public/app/partials/user/_signup.html:37
-msgid "Passwords do not match"
+msgid "Las contraseñas no coinciden"
 msgstr ""
 
 #: public/app/js/controllers/piIndex.js:73
-msgid "Passwords do not match!!"
+msgid "Las contraseñas no coinciden!!"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:18
-msgid "Pick a unique userID"
+msgid "Seleccione un ID de usuario único"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:119
 #: public/app/partials/assets/_assets.html:167
 #: public/app/partials/assets/_assets.html:68
-msgid "Play"
+msgid "Reproducir"
 msgstr ""
 
 #: public/app/partials/_reports.html:3
-msgid "Play Stats"
+msgid "Reproducir estadísticas"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:38
-msgid "Play default playlist along with scheduled playlist(s)"
+msgid "Reproducir lista de reproducción predeterminada junto con la lista de reproducción programada"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:65
-msgid "Play in random order"
+msgid "Reproducir en orden aleatorio"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:35
-msgid "Play one asset after every Interval"
+msgid "Reproducir un activo después de cada Intervalo"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:29
-msgid "Play only in side/banner zones"
+msgid "Reproducir solamente en zonas laterlaes/de banner"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:55
-msgid "Play songs from this playlist (need to contain only mp3 files)"
+msgid "Reproducir canciones de esta lista de reproducción (sólo debe contener archivos mp3)"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:43
-msgid "Play this as independent Audio Playlist (coming soon)"
+msgid "Reproducir esto como lista de reproducción de audio independiente (próximamente)"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:161
 #: public/app/templates/reportDetailsPopup.html:16
 #: public/app/templates/reportDetailsPopup.html:33
 #: public/app/templates/reportDetailsPopup.html:47
-msgid "Player"
+msgid "Reproductor"
 msgstr ""
 
 #: public/app/partials/server/_player.html:118
-msgid "Player ID"
+msgid "ID de reproductor"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:81
-msgid "Player Location"
+msgid "Locación del reproductor"
 msgstr ""
 
 #: public/app/partials/_settings.html:10
-msgid "Player Name"
+msgid "Nombre del reproductor"
 msgstr ""
 
 #: public/app/js/controllers/server.js:229
-msgid "Player already registered by another user, please delete the player under settings of that user & register or contact support@pisignage.com with the player ID"
+msgid "Reproductor ya registrado por otro usuario, elimine el reproductor en los ajustes de ese usuario y registrelo nuevamente o póngase en contacto con support@pisignage.com con el ID del reproductor"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:272
-msgid "Player has updated the wifi settings"
+msgid "El reproductor ha actualizado la configuración de wifi"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:42
-msgid "Player license only"
+msgid "Sólo licencia de reproductor"
 msgstr ""
 
 #: public/app/partials/server/_player.html:46
-msgid "Player name"
+msgid "Nombre de reproductor"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:62
-msgid "Player settings"
+msgid "Ajustes de reproductor"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:4
-msgid "Player settings for the player:&nbsp;"
+msgid "Ajustes de reproductor para el reproductor:&nbsp;"
 msgstr ""
 
 #: public/app/templates/displaySet.html:5
-msgid "Player settings for the {{group.name}}"
+msgid "Ajustes de reproductor para {{group.name}}"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:319
 #: public/app/js/controllers/pimain.js:340
-msgid "Player will reboot to effect the changes"
+msgid "El reproductor se reiniciaria para confirmar los cambios"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:247
-msgid "Player will update the IP settings & reboot"
+msgid "El reproductor actualizará la configuración IP y se reiniciará"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:227
-msgid "Player will update the software & reboot"
+msgid "El reproductor actualizará el software y reiniciará"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:39
 #: public/app/partials/home/_home-pc.html:8
 #: public/app/templates/collaboratorPopup.html:49
-msgid "Players"
+msgid "Reproductor"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:16
-msgid "Playing since:"
+msgid "Reproduciendo desde:"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:926
 #: public/app/partials/home/_pihome.html:15
-msgid "Playlist"
+msgid "Lista de reproducción"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:38
-msgid "Playlist exists already"
+msgid "La lista de reproducción ya existe"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:12
-msgid "Playlist wise Listing"
+msgid "Listado de listas de reproducción"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:12
@@ -1626,121 +1626,121 @@ msgstr ""
 #: public/app/partials/home/_pihome.html:39
 #: public/app/templates/collaboratorPopup.html:105
 #: public/app/templates/reportDetailsPopup.html:49
-msgid "Playlists"
+msgid "Listas de reproducción"
 msgstr ""
 
 #: public/app/templates/confirmPopup.html:5
-msgid "Please Confirm"
+msgid "Por favor confirmar"
 msgstr ""
 
 #: public/app/partials/user/_login.html:9
-msgid "Please Sign-in!"
+msgid "Por favor inicie sesión!"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:136
 #: public/app/js/controllers/assets.js:73
-msgid "Please Wait"
+msgid "Por favor espere"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:24
-msgid "Please Wait, Request pending"
+msgid "Por favor espere, Solicitud pendiente"
 msgstr ""
 
 #: public/app/js/controllers/piUser.js:140
-msgid "Please check your username/email-id again"
+msgid "Por favor revise su nombre de usuario / e-mail de nuevo"
 msgstr ""
 
 #: public/app/partials/user/_forgot.html:6
-msgid "Please enter your username or email"
+msgid "Por favor, introduzca su nombre de usuario o correo electrónico"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:31
-msgid "Please select a password"
+msgid "Seleccione una contraseña"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:34
-msgid "Please wait while data being requested"
+msgid "Por favor, espere mientras se solicitan los datos"
 msgstr ""
 
 #: public/app/js/controllers/piUser.js:127
 #: public/app/js/controllers/server.js:280
-msgid "Please wait..."
+msgid "Por favor espere..."
 msgstr ""
 
 #: public/app/partials/_settings.html:216
-msgid "Portrait"
+msgid "Modo Retrato"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:576
-msgid "Portrait Left"
+msgid "Modo retrato izquierdo"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:575
-msgid "Portrait Right"
+msgid "Modo retrato derecho"
 msgstr ""
 
 #: public/app/partials/_settings.html:307
-msgid "Power OFF at"
+msgid "Apagar en"
 msgstr ""
 
 #: public/app/partials/_settings.html:303
-msgid "Power ON at"
+msgid "Encender en"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:33
 #: public/app/partials/assets/_notice.html:41
 #: public/app/partials/playlists/_playlist.html:19
-msgid "Preview"
+msgid "Previsualizar"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:11
-msgid "Preview the schedule for the group"
+msgid "Vista previa de la programación del grupo"
 msgstr ""
 
 #: public/app/partials/_settings.html:65
 #: public/app/partials/_settings.html:95
-msgid "Primary DNS"
+msgid "DNS Primario"
 msgstr ""
 
 #: public/app/templates/gCalPopup.html:17
-msgid "Proceed >>"
+msgid "Proceder >>"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:148
-msgid "Processing Error..."
+msgid "Procesando error..."
 msgstr ""
 
 #: public/app/js/controllers/assets.js:135
-msgid "Processing in Progress..."
+msgid "Procesamiento en progreso..."
 msgstr ""
 
 #: public/app/partials/assets/_calendar.html:7
-msgid "Profile"
+msgid "Perfil"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:132
-msgid "Purchase Licenses Only"
+msgid "Solo compra de licencia"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:63
-msgid "Purchase Managed Licenses"
+msgid "Comprar liecencias gestionadas"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:63
-msgid "Purchase includes player license and 1 Year subscription at pisignage.com"
+msgid "La Compra incluye licencia de reproductor y 1 año de suscripción en pisignage.com"
 msgstr ""
 
 #: public/app/templates/playlistsPopup.html:13
-msgid "Purge All playlist assets & add this to playlist"
+msgid "Eliminar todos los activos de la lista de reproducción y añadirlo a la lista de reproducción"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:142
-msgid "Queued in for Processing"
+msgid "En cola para procesamiento"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:29
 #: public/app/templates/linkPopUp.html:23
-msgid "RSS Text"
+msgid "Testo RSS"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:58
@@ -1748,103 +1748,103 @@ msgid "RSS feed"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:70
-msgid "RSS link"
+msgid "Enlace RSS"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:34
-msgid "Re-enter the Password"
+msgid "Re ingrese la contraseña"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:14
-msgid "Rearrange assets by dragging"
+msgid "Arrastre para reorganizar los activos"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:89
-msgid "Register"
+msgid "Registrar"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:6
-msgid "Register New Player"
+msgid "Registrar nuevo reproductor"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:55
-msgid "Register Players"
+msgid "Registrar reproductores"
 msgstr ""
 
 #: public/app/partials/server/_player.html:15
-msgid "Register a Player"
+msgid "Registre un reproductor"
 msgstr ""
 
 #: public/app/partials/server/_player.html:15
-msgid "Register a player with the CPU ID displayed on TV"
+msgid "Registrar un reproductor con el ID de la CPU visualizado en la TV"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:39
-msgid "Register, Monitor &amp; rename Players,assign group &amp; timezone, issue shell commands, view player snapshots"
+msgid "Registre, monitoree &amp; renombre reproductores,asigne a un grupo &amp; zona horaria, emita comandos shell, ver capturas de reproductor"
 msgstr ""
 
 #: public/app/partials/server/_player.html:6
 #: public/app/partials/server/_screens.html:6
-msgid "Registered Players"
+msgid "Reproductores registrados"
 msgstr ""
 
 #: public/app/partials/utilities/_kb.html:38
-msgid "Relevance score"
+msgid "Puntuación de relevancia"
 msgstr ""
 
 #: public/app/templates/displaySet.html:102
-msgid "Reload link URLs each time<br>(appends ?ts in chromeapp)"
+msgid "Vuelva a cargar URL de enlace cada vez<br>(anexa ?ts en chromeapp)"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:18
-msgid "Rename or Delete Assets"
+msgid "Cambiar nombre o eliminar activos"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:10
-msgid "Rename or Delete Groups"
+msgid "Cambiar nombre o eliminar grupos"
 msgstr ""
 
 #: public/app/partials/playlists/_list.html:9
-msgid "Rename or Delete Playlists"
+msgid "Cambiar nombre o eliminar listas de reproducción"
 msgstr ""
 
 #: public/app/partials/assets/_edit.html:6
-msgid "Rename or delete files"
+msgid "Cambiar nombre o eliminar archivos"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:15
 #: public/app/partials/home/_home-pc.html:54
 #: public/app/partials/home/_pihome.html:43
 #: public/app/partials/server/_reports.html:7
-msgid "Reports"
+msgid "Reportes"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:139
-msgid "Request sent , Please wait..."
+msgid "Solicitud enviada, por favor espere..."
 msgstr ""
 
 #: public/app/partials/_settings.html:282
-msgid "Resize & Reboot"
+msgid "Redimensionar y reiniciar"
 msgstr ""
 
 #: public/app/templates/displaySet.html:10
-msgid "Resolution"
+msgid "Resolucion"
 msgstr ""
 
 #: public/app/js/services/pi.js:51
-msgid "ResponseText Parsing error"
+msgid "Error de análisis de ResponseText"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:147
-msgid "Restore Bottom Zone Defaults"
+msgid "Restaurar los valores predeterminados de la zona inferior"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:66
-msgid "Restore Defaults"
+msgid "Restaurar por defecto"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:108
-msgid "Restore Side Zone Defaults"
+msgid "Restaurar los valores predeterminados de la zona lateral"
 msgstr ""
 
 #: public/app/partials/assets/_details.html:29
@@ -1854,20 +1854,20 @@ msgstr ""
 #: public/app/templates/collaboratorPopup.html:146
 #: public/app/templates/scheduleValidity.html:31
 #: public/app/templates/tickerPopup.html:95
-msgid "SAVE"
+msgid "GUARDAR"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:3
-msgid "START PLAYING &nbsp;"
+msgid "COMENZAR REPRODUCCION &nbsp;"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:175
 #: public/app/partials/home/_pihome.html:19
-msgid "STOP"
+msgid "DETENER"
 msgstr ""
 
 #: public/app/js/piConfig.js:171
-msgid "Saturday"
+msgid "Sabado"
 msgstr ""
 
 #: public/app/partials/_settings.html:150
@@ -1882,172 +1882,172 @@ msgstr ""
 #: public/app/templates/changePassword.html:30
 #: public/app/templates/linkPopUp.html:76
 #: public/app/templates/scheduleCalendar.html:9
-msgid "Save"
+msgid "Guardar"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:33
-msgid "Save &"
+msgid "Guardar &"
 msgstr ""
 
 #: public/app/partials/_settings.html:108
-msgid "Save & Reboot"
+msgid "Guardar & Reiniciar"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:109
 #: public/app/templates/layoutPopup.html:148
 #: public/app/templates/layoutPopup.html:67
-msgid "Save New Changes"
+msgid "Guardar nuevos cambios"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:88
-msgid "Save Tags"
+msgid "Guardar etiquetas"
 msgstr ""
 
 #: public/app/partials/user/_settings.html:20
-msgid "Save changes"
+msgid "Guardar cambios"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:148
-msgid "Saving the file"
+msgid "Guardando el archivo"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:24
 #: public/app/templates/scheduleCalendar.html:89
-msgid "Schedule"
+msgid "Programar"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:524
-msgid "Schedule Playlist"
+msgid "Programar lista de reproduccion"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:6
-msgid "Schedule Playlists for&nbsp;"
+msgid "Programar listas de reproducción para&nbsp;"
 msgstr ""
 
 #: public/app/templates/displaySet.html:132
-msgid "Schedule TV OFF"
+msgid "Programar TV APAGADO"
 msgstr ""
 
 #: public/app/partials/_settings.html:290
-msgid "Schedule TV ON/OFF"
+msgid "Programar TV ENCENDIDO/APAGADO"
 msgstr ""
 
 #: public/app/templates/calendarPopup.html:6
-msgid "Schedule for"
+msgid "Programara para"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:41
-msgid "Scheduling of Playlists"
+msgid "Programación de listas de reproducción"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:57
-msgid "Scheduling priority starts from top (drag to rearrange)"
+msgid "La prioridad de programación comienza desde la parte superior (arrastrar para reorganizar)"
 msgstr ""
 
 #: public/app/partials/_reports.html:7
-msgid "Screeen Shots"
+msgid "Capturas de pantalla"
 msgstr ""
 
 #: public/app/templates/displaySet.html:67
-msgid "Screen Background"
+msgid "Fondo de pantalla"
 msgstr ""
 
 #: public/app/partials/_settings.html:210
-msgid "Screen Orientation"
+msgid "Orientación de pantalla"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:23
-msgid "Scroll Direction"
+msgid "dirección de desplazamiento"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:32
-msgid "Scroll left"
+msgid "Desplazar izquierda"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:37
-msgid "Scroll right"
+msgid "Desplazar derecha"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:210
 #: public/app/partials/server/_player.html:11
-msgid "Search by Name"
+msgid "Buscar por nombre"
 msgstr ""
 
 #: public/app/partials/_settings.html:101
 #: public/app/partials/_settings.html:71
-msgid "Secondary DNS"
+msgid "DNS Secundiario"
 msgstr ""
 
 #: public/app/templates/swUpdatePopup.html:9
-msgid "See Release Notes"
+msgid "Ver notas de la versión"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:140
 #: public/app/partials/playlists/_playlist.html:63
 #: public/app/templates/playlistsPopup.html:21
-msgid "Select All"
+msgid "Seleccionar todos"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:19
-msgid "Select Categories"
+msgid "Seleccionar categorias"
 msgstr ""
 
 #: public/app/partials/assets/_notice.html:27
-msgid "Select Categories for the Notice"
+msgid "Seleccione Categorías para el Aviso"
 msgstr ""
 
 #: public/app/templates/uploadPopup.html:10
-msgid "Select Categories for the files"
+msgid "Seleccione las categorías de los archivos"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:4
-msgid "Select Display Layout (default 1)"
+msgid "Seleccione Presentación de visualización (predeterminado 1)"
 msgstr ""
 
 #: public/app/templates/linkFilePopup.html:4
-msgid "Select a file or playlist to play in the"
+msgid "Seleccione un archivo o lista de reproducción para"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:138
 #: public/app/partials/playlists/_playlist.html:61
-msgid "Select the layout for this playlist &amp; videowindow"
+msgid "Seleccione el diseño de esta lista de reproducción & amp; videowindow"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:11
-msgid "Selected Group"
+msgid "Grupo seleccionado"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:294
-msgid "Server name has been reconfigured, player will reload the program"
+msgid "El nombre del servidor se ha reconfigurado, el reproductor volverá a cargar el programa"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:10
-msgid "Set Group Ticker"
+msgid "Establecer Ticker de grupo"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:138
 #: public/app/partials/playlists/_playlist.html:61
-msgid "Set Ticker"
+msgid "Establecer Ticker"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:6
-msgid "Set Timings for Scheduled Playlist&nbsp;"
+msgid "Establecer tiempos para la lista de reproducción programada&nbsp;"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:29
-msgid "Set Username and Password for Download Access"
+msgid "Establecer nombre de usuario y contraseña para el acceso de descarga"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:55
-msgid "Set player credentials,custom logo &amp; default duration,Add colaaborators, deregister players"
+msgid "Defina las credenciales del reproductor, el logotipo personalizado & amp; duración predeterminada, Añadir colaboradores, cancelar el registro de reproductores"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:12
-msgid "Set the display settings for all players of the group"
+msgid "Establecer la configuración de la pantalla para todos los reproductores del grupo"
 msgstr ""
 
 #: public/app/partials/server/_player.html:113
-msgid "Set the location manually"
+msgid "Establezca la ubicación manualmente"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:16
@@ -2056,201 +2056,201 @@ msgstr ""
 #: public/app/partials/playlists/_playlist.html:138
 #: public/app/partials/playlists/_playlist.html:61
 #: public/app/templates/collaboratorPopup.html:133
-msgid "Settings"
+msgid "Ajustes"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:476
-msgid "Settings file has been saved and server will restart"
+msgid "El archivo de configuración se ha guardado y el servidor se reiniciará"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:138
 #: public/app/partials/playlists/_playlist.html:61
-msgid "Settings for playlist like adverts, audio"
+msgid "Ajustes para listas de reproducción como anuncios, audio"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:381
 #: public/app/js/controllers/pimain.js:416
-msgid "Settings have been saved"
+msgid "Los ajustes fueron guardados"
 msgstr ""
 
 #: public/app/partials/_settings.html:163
-msgid "Sever Name or IP address"
+msgid "Nombre o dirección IP del servidor"
 msgstr ""
 
 #: public/app/partials/server/_reports.html:85
-msgid "Show Details"
+msgid "Mostrar detalles"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:39
-msgid "Show Images"
+msgid "Mostrar imagenes"
 msgstr ""
 
 #: public/app/templates/displaySet.html:82
-msgid "Show Logo"
+msgid "Mostrar Logo"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:40
-msgid "Show Notices"
+msgid "Mostrar Noticias"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:38
-msgid "Show Videos"
+msgid "Mostrar Videos"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:93
-msgid "Show all files that will be deployed"
+msgid "Mostrar todos los archivos que se desplegarán"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:43
 #: public/app/templates/linkPopUp.html:37
-msgid "Show description"
+msgid "Mostrar descripcion"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:92
-msgid "Show the players associated with the group"
+msgid "Mostrar los reproductores asociados con el grupo"
 msgstr ""
 
 #: public/app/partials/assets/_linkFile.html:38
 #: public/app/templates/linkPopUp.html:32
-msgid "Show title"
+msgid "Mostrar titulo"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "Show your Google Calendar events"
+msgid "Muestra tus eventos de Google Calendar"
 msgstr ""
 
 #: public/app/partials/admin/_admin.html:11
 #: public/app/partials/home/_home-pc.html:25
-msgid "Sign Out"
+msgid "Cerrar sesión"
 msgstr ""
 
 #: public/app/partials/user/_login.html:28
-msgid "Sign Up for free"
+msgid "Registrate gratis"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:53
-msgid "Sign up"
+msgid "Registrarse"
 msgstr ""
 
 #: public/app/partials/user/_login.html:27
 #: public/app/partials/user/_signup.html:12
-msgid "Signing up at pisignage.com is easy and we do not ask any Credit Card information. By signing up,"
+msgid "Registrarse en pisignage.com es fácil y no pedimos ninguna información de la tarjeta de crédito al inscribirse,"
 msgstr ""
 
 #: public/app/js/controllers/server.js:852
-msgid "Since Yesterday"
+msgid "Desde ayer"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:527
-msgid "Single Zone Display"
+msgid "Visualización de una sola zona"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:559
-msgid "Single Zone Portrait Mode, Orient clockwise"
+msgid "Modo de retrato de zona única, Orientación en el sentido de las agujas del reloj"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:564
-msgid "Single Zone Portrait Mode,Orient anti-clockwise"
+msgid "Modo de retrato de zona única, Oriente en sentido antihorario"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:27
-msgid "Slide"
+msgid "Diapositiva"
 msgstr ""
 
 #: public/app/templates/displaySet.html:60
-msgid "Slide down"
+msgid "Bajar deslizándose"
 msgstr ""
 
 #: public/app/templates/displaySet.html:43
-msgid "Slide left"
+msgid "Deslizar izquierda"
 msgstr ""
 
 #: public/app/templates/displaySet.html:38
-msgid "Slide right"
+msgid "Deslizar derecha"
 msgstr ""
 
 #: public/app/templates/displaySet.html:55
-msgid "Slide up"
+msgid "Deslizar arriba"
 msgstr ""
 
 #: public/app/templates/swUpdatePopup.html:5
-msgid "Software Update"
+msgid "Actuzalización de software"
 msgstr ""
 
 #: public/app/partials/playlists/_calendar.html:16
-msgid "Start Date"
+msgid "Fecha de inicio"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:29
 #: public/app/templates/scheduleValidity.html:20
-msgid "Starting on"
+msgid "Iniciando en"
 msgstr ""
 
 #: public/app/partials/_settings.html:42
-msgid "Static"
+msgid "Estático"
 msgstr ""
 
 #: public/app/partials/admin/_admin.html:8
-msgid "Stats"
+msgid "Estadísticas"
 msgstr ""
 
 #: public/app/partials/server/_player.html:75
 #: public/app/partials/server/_screens.html:14
 #: public/app/templates/uploadPopup.html:4
-msgid "Status"
+msgid "Estatus"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:14
-msgid "Storage space used/Total storage available"
+msgid "Espacio de almacenamiento utilizado / Almacenamiento total disponible"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:28
-msgid "Storage:"
+msgid "Almacenamiento:"
 msgstr ""
 
 #: public/app/templates/linkPopUp.html:4
-msgid "Stream from Internet"
+msgid "Transmisión desde Internet"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:264
 #: public/app/js/controllers/notices.js:170
-msgid "Streaming"
+msgid "Transmisión"
 msgstr ""
 
 #: public/app/templates/displaySet.html:110
-msgid "Stretch images to fit screen"
+msgid "Estirar las imágenes para que se ajusten a la pantalla"
 msgstr ""
 
 #: public/app/templates/displaySet.html:115
-msgid "Stretch videos to fit screen"
+msgid "Estirar videos para ajustarse a la pantalla"
 msgstr ""
 
 #: public/app/partials/user/_forgot.html:19
-msgid "Submit"
+msgid "Enviar"
 msgstr ""
 
 #: public/app/templates/gCalPopup.html:4
-msgid "Subscribe to a Google Calendar for Events"
+msgid "Suscribirse a un Calendario de Google para eventos"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:14
-msgid "Subscription"
+msgid "Subscripcion"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:80
-msgid "Subscription Renewal"
+msgid "Renovar Subscripcion"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:53
-msgid "Subscription/Licenses"
+msgid "Subscripcion/Licencias"
 msgstr ""
 
 #: public/app/js/piConfig.js:165
-msgid "Sunday"
+msgid "Domingo"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:48
-msgid "Switch to new at the end of current playlist"
+msgid "Cambiar a nuevo al final de la lista de reproducción actual"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:12
@@ -2258,119 +2258,119 @@ msgid "TV"
 msgstr ""
 
 #: public/app/partials/_settings.html:221
-msgid "TV Mode"
+msgid "Modo TV"
 msgstr ""
 
 #: public/app/partials/_reports.html:6
-msgid "TV on status"
+msgid "Estado en TV"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:53
-msgid "Text"
+msgid "Texto"
 msgstr ""
 
 #: public/app/partials/utilities/_kb.html:44
-msgid "Thank You!"
+msgid "Gracias!"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:10
-msgid "The Display can be divided into multiple zones with each zone playing different content. Video files can be played"
+msgid "La pantalla se puede dividir en varias zonas, cada zona reproduce contenido diferente. Se pueden reproducir archivos de vídeo"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:85
-msgid "The modifications will be sent to the Players"
+msgid "Las modificaciones serán enviadas a los reproductores"
 msgstr ""
 
 #: public/app/partials/server/_player.html:140
-msgid "There are no Players, Register a player"
+msgid "No hay reproductores, registre un reproductor"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:228
-msgid "There are no assets, Tap here to add"
+msgid "No se encontraron activos, toque aquí para añadir"
 msgstr ""
 
 #: public/app/partials/home/_labels.html:17
-msgid "There are no categories, Add a Category"
+msgid "No hay categorias, añada una categoría"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:104
-msgid "There are no files to deploy"
+msgid "No hay archivos a desplegar"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:85
-msgid "There are no regular playlists associated"
+msgid "No hay listas de reproducción regulares asociadas"
 msgstr ""
 
 #: public/app/partials/_settings.html:182
-msgid "These credentials will be overwritten if player is connected to server"
+msgid "Estas credenciales se sobrescribirán si el reproductor está conectado al servidor"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:132
-msgid "These players are not managed at pisignage.com"
+msgid "Estos reproductores no son administrados en pisignage.com"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:24
-msgid "This can be used as login ID"
+msgid "Se puede utilizar como ID de inicio de sesión"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:32
-msgid "This section is for Advanced user only!! Changing any parameter would affect the video display size."
+msgid "Esta sección es sólo para usuarios avanzados! Cambiar cualquier parámetro afectaría al tamaño de la pantalla de vídeo."
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:74
-msgid "This section is for custom layouts only !! Changing  Any parameter would affect the video display size in side and bottom zones."
+msgid "Esta sección es para diseños personalizados solamente !! Cambiar Cualquier parámetro afectaría al tamaño de la pantalla de vídeo en las zonas laterales e inferiores."
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:541
-msgid "Three Zones(full bottom) with Main Zone on left"
+msgid "Tres zonas (fondo completo) con zona principal a la izquierda"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:539
-msgid "Three Zones(full bottom) with Main Zone on right"
+msgid "Tres zonas (fondo completo) con zona principal a la derecha"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:551
-msgid "Three Zones(full side) with Main Zone on left"
+msgid "Tres zonas (lado completo) con zona principal a la izquierda"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:556
-msgid "Three Zones(full side) with Main Zone on left (enable in settings)"
+msgid "Tres zonas (lado completo) con la zona principal a la izquierda (habilitar en la configuración)"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:549
-msgid "Three Zones(full side) with Main Zone on right"
+msgid "Tres zonas (lado completo) con zona principal a la derecha"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:553
-msgid "Three Zones(full side) with Main Zone on right (enable in settings)"
+msgid "Tres zonas (lado completo) con zona principal a la derecha (habilitar en ajustes)"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:546
-msgid "Three Zones(full top) with Main Zone on left (enable in settings)"
+msgid "Tres zonas (parte superior completa) con zona principal a la izquierda (activar en la configuración)"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:543
-msgid "Three Zones(full top) with Main Zone on right (enable in settings)"
+msgid "Tres zonas (parte superior completa) con zona principal a la derecha (activar en la configuración)"
 msgstr ""
 
 #: public/app/js/piConfig.js:169
-msgid "Thursday"
+msgid "Jueves"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:15
-msgid "Time"
+msgid "Horario"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:61
-msgid "Timezone"
+msgid "Zona horaria"
 msgstr ""
 
 #: public/app/templates/groupChangePopUp.html:25
-msgid "Timezone of Player"
+msgid "Zona horaria del reproductor"
 msgstr ""
 
 #: public/app/js/controllers/server.js:851
-msgid "Today"
+msgid "Hoy"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:138
@@ -2380,77 +2380,77 @@ msgid "Top-Offset:"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:113
-msgid "Total Licenses Available"
+msgid "Total de licencias disponibles"
 msgstr ""
 
 #: public/app/templates/licenseListPopup.html:6
-msgid "Total Licenses issued"
+msgid "Total de licencias otorgadas"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:10
-msgid "Total Managed Licenses Available"
+msgid "Total de licencias administradas disponibles"
 msgstr ""
 
 #: public/app/js/piConfig.js:167
-msgid "Tuesday"
+msgid "Martes"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:533
-msgid "Two Equal Size Zones with Video Zone on left"
+msgid "Dos zonas de igual tamaño con zona de vídeo a la izquierda"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:536
-msgid "Two Equal Size Zones with Video Zone on right"
+msgid "Dos zonas de igual tamaño con zona de vídeo a la derecha"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:566
-msgid "Two Zone Portrait Mode,Orient anti-clockwise"
+msgid "Modo de dos zonas de retrato, Oriente en sentido antihorario"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:561
-msgid "Two Zones Portrait Mode, Orient clockwise"
+msgid "Modo de retrato de dos zonas, orientar en el sentido de las agujas del reloj"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:531
-msgid "Two Zones with Main Zone on left"
+msgid "Dos zonas con zona principal a la izquierda"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:529
-msgid "Two Zones with Main Zone on right"
+msgid "Dos Zonas con Zona Principal a la derecha"
 msgstr ""
 
 #: public/app/templates/linkPopUp.html:17
 #: public/app/templates/reportDetailsPopup.html:17
 #: public/app/templates/tickerPopup.html:49
-msgid "Type"
+msgid "Tipo"
 msgstr ""
 
 #: public/app/partials/user/_login.html:20
-msgid "Type in your password"
+msgid "Escriba su contraseña"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:132
-msgid "UI Selection"
+msgid "Selección de Interfaz de Usuario"
 msgstr ""
 
 #: public/app/templates/displaySet.html:97
-msgid "URL Reload"
+msgid "Recargar URL"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:78
-msgid "URL to redirect upon clicking the logo"
+msgid "Redireccionar a URL clickando sobre el logo"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:32
-msgid "USE THIS FEATURE CAUTIOUSLY"
+msgid "UTILICE ESTA CARACTERÍSTICA CON PRECAUCIÓN"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:150
-msgid "Un-assigned"
+msgid "No Asignado"
 msgstr ""
 
 #: public/app/templates/swUpdatePopup.html:12
-msgid "Update to beta"
+msgid "Actualizar a Beta"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:135
@@ -2459,271 +2459,272 @@ msgstr ""
 #: public/app/js/controllers/assets.js:160
 #: public/app/js/controllers/assets.js:73
 #: public/app/js/controllers/assets.js:97
-msgid "Upload"
+msgid "Cargar"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:97
-msgid "Upload Complete"
+msgid "Carga completa"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:102
 #: public/app/js/controllers/assets.js:160
-msgid "Upload Error"
+msgid "Error de carga"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "Upload Files"
+msgid "Cargar archivos"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:570
 #: public/app/js/controllers/playlists.js:573
 #: public/app/js/controllers/playlists.js:576
-msgid "Upload custom_layout.html under Assets Tab(otherwise this option is disabled), Use #main,#side, #bottom, #ticker html ID tags for content, see github e.g."
+msgid "Subir custom_layout.html en la ficha Activos (de lo contrario esta opción está desactivada), Use #main,#side, #bottom, #ticker html Etiquetas de identificación para el contenido, vea ejemplos en github"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:19
-msgid "Upload files, Add links, Create notices"
+msgid "Subir archivos, Añadir enlaces, Crear avisos"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:69
-msgid "Upload logo using Add Assets &amp; enter filename"
+msgid "Subir logo utilizando Agregar activos & amp; ingrese el nombre de archivo"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "Upload notice_template.ejs to customize notice"
+msgid "Subir aviso_template.ejs para personalizar la notificación"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:74
-msgid "Uploading"
+msgid "Subiendo"
 msgstr ""
 
 #: public/app/partials/_reports.html:4
-msgid "Uploads"
+msgid "Subidas"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:75
-msgid "Use Binary encoding for RSS, enable this if characters are not displayed properly"
+msgid "Utilice la codificación binaria para RSS, habilite esto si los caracteres no se muestran correctamente"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:144
-msgid "Use Old UI"
+msgid "Usar antigua Interfaz de Usuario"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:80
-msgid "Use description field of rss stream instead of title field"
+msgid "Utilice el campo de descripción del flujo de RSS en lugar del campo de título"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:88
-msgid "Use line feed for multiple messages"
+msgid "Utilizar la alimentación de línea para varios mensajes"
 msgstr ""
 
 #: public/app/partials/_settings.html:178
-msgid "User Settings"
+msgid "Ajustes de usuario"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:19
-msgid "User name is not valid"
+msgid "El nombre de usuario no es válido"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:19
-msgid "User name not available"
+msgid "Nombre de usuario no disponible"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:362
-msgid "User settings has been written, player will reload the program"
+msgid "Se ha escrito la configuración del usuario, el reproductor volverá a cargar el programa"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:16
-msgid "UserID"
+msgid "ID de usuario"
 msgstr ""
 
 #: public/app/partials/_settings.html:184
 #: public/app/partials/server/_settings.html:35
-msgid "Username"
+msgid "Nombre de Usuario"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:11
-msgid "Username at pisignage.com"
+msgid "usuario en pisignage.com"
 msgstr ""
 
 #: public/app/partials/user/_forgot.html:17
 #: public/app/partials/user/_login.html:15
-msgid "Username or Email"
+msgid "Nombre de usuario o Email"
 msgstr ""
 
 #: public/app/templates/scheduleValidity.html:18
-msgid "Valid from"
+msgid "Valido desde"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:125
 #: public/app/partials/user/_subscriptions.html:28
-msgid "View"
+msgid "Vista"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:83
-msgid "View & Upload"
+msgid "Ver & Subir"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:54
-msgid "View Stats, File play counts &amp; events and download reports"
+msgid "Ver Estadísticas, Cuentas de reproducción de archivos & amp; eventos y descargar informes"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:53
-msgid "View and Purchase licenses &amp; subscription"
+msgid "Ver y comprar licencias & amp; suscripción"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:71
-msgid "Volume"
+msgid "Volumen"
 msgstr ""
 
 #: public/app/partials/_settings.html:322
-msgid "Volume Setting"
+msgid "Ajustes de Volumen"
 msgstr ""
 
 #: public/app/partials/_settings.html:327
-msgid "Volume level"
+msgid "Nivel de Volumen"
 msgstr ""
 
 #: public/app/templates/displaySet.html:121
-msgid "Volume(%)"
+msgid "Volumen(%)"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:749
 #: public/app/js/controllers/playlists.js:767
-msgid "WAIT"
+msgid "ESPERE"
 msgstr ""
 
 #: public/app/js/controllers/notices.js:172
-msgid "Web Link(embedded)"
+msgid "Enlace web(incrustado)"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:266
-msgid "Web Link(embedded, shows in an iframe)"
+msgid "Enlace web (incrustado, muestra en un iframe)"
 msgstr ""
 
 #: public/app/js/controllers/notices.js:173
-msgid "Web Page (needs v1.6.0+)"
+msgid "Pagina Web (Necesita v1.6.0+)"
 msgstr ""
 
 #: public/app/js/controllers/assets.js:267
-msgid "Web Page (needs v1.6.0+, shows in a browser for CORS support)"
+msgid "Pagina Web (Necesita v1.6.0+, muestra en un navegador para soporte de CORS)"
 msgstr ""
 
 #: public/app/js/piConfig.js:168
-msgid "Wednesday"
+msgid "Miercoles"
 msgstr ""
 
 #: public/app/partials/home/_home-pc.html:21
-msgid "Welcome"
+msgid "Bienvenido"
 msgstr ""
 
 #: public/app/partials/_settings.html:116
-msgid "WiFi Settings"
+msgid "Ajustes de WiFi"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:264
-msgid "WiFi update in Progress ...."
+msgid "Actualización de WiFi en Progreso ...."
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:118
 #: public/app/templates/layoutPopup.html:36
 #: public/app/templates/layoutPopup.html:79
-msgid "Width:"
+msgid "Anchura:"
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:275
-msgid "Wifi interface file I/O error"
+msgid "Error de E/S del archivo de interfaz Wifi"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:24
-msgid "You are not the owner of this installation"
+msgid "Usted no es el propietario de esta instalación"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "You can add Youtube and web links here"
+msgid "Usted puede agregar Youtube y enlaces web aquí"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "You can add text message here"
+msgid "Usted puede agregar el mensaje de texto aquí"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:24
-msgid "You can also upload files & links by dragging them to this panel"
+msgid "También puede subir archivos y vínculos arrastrándolos a este panel"
 msgstr ""
 
 #: public/app/templates/adEnablePopUp.html:22
 msgid ""
-"You can play the assets only on side and banner zones by disabling\n"
-"          main zone here. Still you have to select dummy file for main zone."
+"Puede reproducir los activos únicamente en las zonas laterales y de banner deshabilitando\n"
+"          zona principal aquí. Todavía tienes que seleccionar el archivo ficticio para la zona principal."
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:80
-msgid "You can purchase in multiples of 12 player-month credits to manage at pisignage.com"
+msgid "Puedes comprar en múltiplos de 12 créditos de reproductor/mes para administrar en pisignage.com"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:21
-msgid "You can upload multiple files at a time"
+msgid "Puede subir varios archivos a la vez"
 msgstr ""
 
 #: public/app/templates/gCalPopup.html:12
-msgid "You will be redirected to Google Accounts page now with the chosen ID as the account. After logging into the account, accept the permisson request from this site."
+msgid "Ahora será redirigido a la página de Cuentas Google con el ID seleccionado. Después de iniciar sesión en la cuenta, acepte la solicitud de permisos de este sitio
+."
 msgstr ""
 
 #: public/app/js/services/pi.js:210
-msgid "You will loose unsaved changes if you leave this page"
+msgid "Si abandona esta página perderá los cambios no guardados"
 msgstr ""
 
 #: public/app/js/services/pi.js:211
-msgid "You will loose unsaved changes if you reload this page"
+msgid "Se perderán los cambios no guardados si vuelve a cargar esta página"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:22
-msgid "Your Email"
+msgid "Su Email"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:32
-msgid "`Left-offset` and `Top-Offset` defines the position of the window across your display."
+msgid "`Left-offset` and `Top-Offset` define la posición de la ventana a través de su pantalla."
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:115
 #: public/app/partials/assets/_assets.html:163
 #: public/app/partials/assets/_assets.html:64
-msgid "add validity"
+msgid "Añadir validez"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:134
 #: public/app/partials/user/_subscriptions.html:63
-msgid "after purchase at PayPal site return to pisignage.com for auto update of licenses)"
+msgid "después de la compra en el sitio de PayPal vuelva a pisignage.com para la actualización automática de las licencias"
 msgstr ""
 
 #: public/app/partials/playlists/_list.html:31
-msgid "assets,&nbsp;layout:"
+msgid "Activos,&nbsp;diseño:"
 msgstr ""
 
 #: public/app/partials/assets/_details.html:6
-msgid "associated playlists"
+msgid "Listas de reproducción asociadas"
 msgstr ""
 
 #: public/app/templates/reportDetailsPopup.html:4
-msgid "at"
+msgid "En"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:10
-msgid "by clicking zone file button. If there is no file attached to a particular zone, the previous content for that zone"
+msgid "haciendo clic en el botón de archivo de zona. Si no hay ningún archivo adjunto a una zona determinada, el contenido anterior para esa zona"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:133
 #: public/app/partials/assets/_assets.html:181
 #: public/app/partials/assets/_assets.html:82
-msgid "by:"
+msgid "Por:"
 msgstr ""
 
 #: public/app/partials/server/_player.html:90
-msgid "click to rename"
+msgid "Click para renombrar"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:331
-msgid "dates:"
+msgid "Fechas:"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:120
@@ -2732,280 +2733,280 @@ msgstr ""
 #: public/app/partials/assets/_details.html:10
 #: public/app/partials/groups/_groups.html:39
 #: public/app/partials/playlists/_list.html:33
-msgid "delete"
+msgid "Eliminar"
 msgstr ""
 
 #: public/app/templates/linkPopUp.html:51
-msgid "e.g. http(s)://site.com or rtsp://"
+msgid "Ej. http(s)://site.com o rtsp://"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:71
-msgid "e.g. location of the player"
+msgid "Ej. Locación delreproductor"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:83
-msgid "e.g: London,UK"
+msgid "Ej.: Londres, Reino Unido"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:72
-msgid "enter your rss link ...."
+msgid "Ingrese su enlace RSS ...."
 msgstr ""
 
 #: public/app/partials/groups/_details.html:93
-msgid "files associated with the group"
+msgid "archivos asociados con el grupo"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:150
 #: public/app/partials/playlists/_playlist.html:208
-msgid "files)"
+msgid "archivos)"
 msgstr ""
 
 #: public/app/templates/calendarPopup.html:6
-msgid "for the week"
+msgid "para la semana"
 msgstr ""
 
 #: public/app/partials/server/_screens.html:58
-msgid "last seen"
+msgid "ultimo visto"
 msgstr ""
 
 #: public/app/partials/server/_screens.html:61
-msgid "last sync"
+msgid "ultimo sincronizado"
 msgstr ""
 
 #: public/app/templates/shellPopup.html:23
-msgid "last taken:"
+msgid "ultimo tomado:"
 msgstr ""
 
 #: public/app/partials/server/_player.html:6
-msgid "licensed"
+msgid "Licenciado"
 msgstr ""
 
 #: public/app/partials/server/_player.html:28
 #: public/app/partials/server/_player.html:79
-msgid "location"
+msgid "Locación"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:560
 #: public/app/js/controllers/playlists.js:565
-msgid "main Zone: 720x1280"
+msgid "Zona principal: 720x1280"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:528
-msgid "main Zone:1280x720"
+msgid "Zona principal:1280x720"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:535
 #: public/app/js/controllers/playlists.js:538
-msgid "main Zone:640x720, side Zone:640x720"
+msgid "Zona Principal:640x720, Zona lateral:640x720"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:540
 #: public/app/js/controllers/playlists.js:542
-msgid "main Zone:960x540, side Zone:320x540, bottom Zone:1280x180"
+msgid "Zona Principal:960x540, Zona lateral:320x540, Zona inferior:1280x180"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:545
 #: public/app/js/controllers/playlists.js:548
-msgid "main Zone:960x540, side Zone:320x540, top Zone:1280x180"
+msgid "Zona Principal:960x540, Zona lateral:320x540, Zona superior:1280x180"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:550
 #: public/app/js/controllers/playlists.js:552
-msgid "main Zone:960x540, side Zone:320x720, bottom Zone:960x180"
+msgid "Zona Principal:960x540, Zona lateral:320x720, zona inferior:960x180"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:555
 #: public/app/js/controllers/playlists.js:558
-msgid "main Zone:960x540, side Zone:320x720, top Zone:960x180"
+msgid "Zona Principal:960x540, Zona lateral:320x720, Zona superior:960x180"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:530
 #: public/app/js/controllers/playlists.js:532
-msgid "main Zone:960x720, side Zone:320x720"
+msgid "Zona Principal:960x720, Zona lateral:320x720"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:30
-msgid "minimum of 8 characters"
+msgid "Minimo de 8 caracteres"
 msgstr ""
 
 #: public/app/partials/server/_player.html:99
-msgid "new software available, click to upgrade"
+msgid "Nuevo software dispobible, click aquí para actualizar"
 msgstr ""
 
 #: public/app/partials/assets/_details.html:6
-msgid "none"
+msgid "Niguno"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:70
-msgid "on Date(s)"
+msgid "En fecha(s)"
 msgstr ""
 
 #: public/app/partials/server/_player.html:6
 #: public/app/partials/server/_screens.html:6
-msgid "online"
+msgid "En Linea"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:10
-msgid "only in the main Zone. Select a file in the playlist to play in the main zone,add other zone files to the main file"
+msgid "sólo en la zona principal. Seleccione un archivo en la lista de reproducción para reproducir en la zona principal, agregue otros archivos de zona al archivo principal"
 msgstr ""
 
 #: public/app/partials/_settings.html:261
-msgid "overscan_left & overscan_right"
+msgid "overscan_izquierdo & overscan_derecho"
 msgstr ""
 
 #: public/app/partials/_settings.html:271
-msgid "overscan_top & overscan_bottom"
+msgid "overscan_superior & overscan_inferior"
 msgstr ""
 
 #: public/app/partials/server/_player.html:131
 #: public/app/partials/server/_screens.html:61
-msgid "player disk space used"
+msgid "espacio en disco del reproductor utilizado"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:92
-msgid "players"
+msgid "Reproductores"
 msgstr ""
 
 #: public/app/partials/groups/_groups.html:32
-msgid "playlists,"
+msgid "Listas de reproducción,"
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:167
-msgid "please write to us at sales@pisignage.com or by filling"
+msgid "por favor escríbanos a sales@pisignage.com o rellenando"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:130
-msgid "reason:"
+msgid "Motivo:"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:138
-msgid "reason: http post error"
+msgid "Motivo: error de posteo http"
 msgstr ""
 
 #: public/app/partials/server/_settings.html:18
-msgid "remove as collaborator"
+msgid "remover colaborador"
 msgstr ""
 
 #: public/app/partials/server/_player.html:128
-msgid "reported"
+msgid "reportado"
 msgstr ""
 
 #: public/app/templates/tickerPopup.html:66
-msgid "rss item duration in slide mode"
+msgid "rss duración del artículo RSS en modo diapositiva"
 msgstr ""
 
 #: public/app/partials/_settings.html:132
-msgid "scan network"
+msgid "Escaneo de Red"
 msgstr ""
 
 #: public/app/partials/playlists/_playlist.html:127
 #: public/app/partials/playlists/_playlist.html:50
-msgid "select random order for assets"
+msgid "Seleccionar ordenaleatorio para Activos"
 msgstr ""
 
 #: public/app/templates/playlistsPopup.html:33
-msgid "select to add and unselect to remove"
+msgid "Seleccionar para aadir o deseleccionar para remover"
 msgstr ""
 
 #: public/app/partials/server/_player.html:49
 #: public/app/partials/server/_player.html:59
 #: public/app/partials/server/_screens.html:20
-msgid "sorted alphabetically"
+msgid "ordenados alfabéticamente"
 msgstr ""
 
 #: public/app/partials/server/_player.html:48
 #: public/app/partials/server/_player.html:54
 #: public/app/partials/server/_screens.html:19
-msgid "sorted by last reported to server"
+msgid "ordenados por último reportado al servidor"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:101
-msgid "start is sychronized to 00 seconds"
+msgid "Inicio esta sincronizado a 00 segundos"
 msgstr ""
 
 #: public/app/partials/server/_player.html:131
-msgid "synced"
+msgid "Sincronizado"
 msgstr ""
 
 #: public/app/templates/scheduleCalendar.html:31
 #: public/app/templates/scheduleCalendar.html:96
 #: public/app/templates/scheduleValidity.html:22
-msgid "till"
+msgid "Hasta"
 msgstr ""
 
 #: public/app/templates/swUpdatePopup.html:9
-msgid "to"
+msgid "A"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:4
-msgid "to upload"
+msgid "A subir"
 msgstr ""
 
 #: public/app/templates/calendarPopup.html:8
-msgid "today"
+msgid "Hoy"
 msgstr ""
 
 #: public/app/js/controllers/playlists.js:563
 #: public/app/js/controllers/playlists.js:567
-msgid "top Zone:720x540,bottom zone:720x740"
+msgid "Zona superior:720x540,Zona inferior:720x740"
 msgstr ""
 
 #: public/app/partials/server/_player.html:6
 #: public/app/partials/server/_screens.html:6
-msgid "total"
+msgid "Total"
 msgstr ""
 
 #: public/app/templates/collaboratorPopup.html:13
-msgid "type first 3 letters of username for the names to appear"
+msgid "escriba las primeras 3 letras de nombre de usuario para que aparezcan los nombres"
 msgstr ""
 
 #: public/app/partials/groups/_details.html:78
-msgid "unassign the playlist"
+msgid "Desasignar lista de reproducción"
 msgstr ""
 
 #: public/app/templates/registerPlayerPopup.html:39
 #: public/app/templates/registerPlayerPopup.html:42
-msgid "uncheck for license only option"
+msgid "Desmarque para opcion de licencia solamente"
 msgstr ""
 
 #: public/app/partials/assets/_assets.html:133
 #: public/app/partials/assets/_assets.html:181
 #: public/app/partials/assets/_assets.html:82
-msgid "uploaded on:"
+msgid "Subido en:"
 msgstr ""
 
 #: public/app/partials/home/_pihome.html:31
-msgid "used"
+msgid "Usado"
 msgstr ""
 
 #: public/app/partials/_settings.html:4
-msgid "version"
+msgid "versión"
 msgstr ""
 
 #: public/app/js/controllers/groups.js:320
-msgid "week days:"
+msgid "Días de semana:"
 msgstr ""
 
 #: public/app/templates/layoutPopup.html:10
-msgid "will continue to play."
+msgid "Continuará reproduciendo."
 msgstr ""
 
 #: public/app/partials/user/_subscriptions.html:167
-msgid "with your contact details, number of players to be managed and storage requirements."
+msgid "con sus datos de contacto, número de reproductores a gestionar y requisitos de almacenamiento."
 msgstr ""
 
 #: public/app/js/controllers/pimain.js:173
-msgid "you can leave a note here"
+msgid "puede dejar una nota aqui"
 msgstr ""
 
 #: public/app/partials/user/_signup.html:12
-msgid "you get 3 free player licenses along with free subscription for the hosted service."
+msgid "Ud. obtiene 3 licencias de reproductor gratuitas y además una suscripción gratuita por el servicio recibido."
 msgstr ""
 
 #: public/app/partials/user/_login.html:27
-msgid "you get 3 free player licenses and also free subscription for the hosted service for 3 players."
+msgid "Ud. obtiene 3 licencias de reproductor gratuitas y además una suscripción gratuita por el servicio recibido."
 msgstr ""
 
 #: public/app/templates/linkFilePopup.html:4
-msgid "zone with"
+msgid "Zona con"
 msgstr ""
